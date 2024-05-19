@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashdroids
-- 👀 I’m interested in Unity Game Development
-- 🌱 I’m currently learning C# in Unity
+- 👀 I’m interested in Unity Game Development and web development
+- 🌱 I’m currently a junior C# developer in Unity and learning web development
 - 📫 How to reach me : a.morrisseyy@gmail.com
 
 <!---
